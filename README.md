@@ -10,7 +10,7 @@
 
 # Fun or crap I've done as listed below
 
-[1] Python Voice Translator, [See Video]
+-1 Python Voice Translator, [See Video]
 
 
 <!---
