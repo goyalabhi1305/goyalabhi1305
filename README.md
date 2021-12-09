@@ -10,7 +10,8 @@
 
 # Fun or crap I've done as listed below
 
--1 Python Voice Translator, [See Video]
+-1 Python Voice Translator, [See Video](https://www.youtube.com/watch?v=kYkVi61cvP8)
+-2 Voice Controlled Lights [See Video] (https://www.youtube.com/watch?v=DmOcWCJNhmY)
 
 
 <!---
