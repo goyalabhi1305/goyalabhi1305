@@ -14,6 +14,9 @@
 
 - 2 Voice Controlled Lights [See Video] (https://www.youtube.com/watch?v=DmOcWCJNhmY)
 
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goyalabhi1305&show_icons=true&hide_border=true&title_color=fff&icon_color=fc531f&text_color=fff&bg_color=121212&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goyalabhi1305&hide=html&layout=compact)](https://github.com/goyalabhi1305/github-readme-stats)
 
 <!---
 goyalabhi1305/goyalabhi1305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
