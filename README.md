@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning ML, Data Science, Web developemnt
 - 💞️ I’m looking to collaborate on anything to say, I am ready.
-- 📫 Mail me at goyalabhi1305@gmail.com [Personal requests only]
+- 📫 Mail me at me@abhishekgoyal.ga [Personal requests only]
 - 📫 For business or regarding my startup contact through any contact form, Hopefully I'll respond.
 - 🥤 I love drinks more than food or vice versa [A superpositioned state]
 - 🔗 Visit my website here [Abhishek's Website](https://abhishekgoyal.ga/) to know about me or to see more links of mine
